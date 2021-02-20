@@ -1,1 +1,1 @@
-This folder contains raw VIIRS data
+This folder contains normalized VIIRS data
