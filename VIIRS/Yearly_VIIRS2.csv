@@ -1,4 +1,4 @@
-﻿country,year,pixel,luminosity,avg_luminosity,avg_luminosity/pixel_count,normalizedviirs,normalizedviirs/pixel
+﻿country,year,pixel_count,luminosity,avg_luminosity,avg_luminosity/pixel_count,normalizedviirs,normalizedviirs/pixel
 Albania,2012,303968,121805.1457,40601.71522,0.133572334,161038.4244,2.144530307
 Albania,2013,303968,133856.5992,44618.8664,0.146788038,165055.5756,2.145389971
 Albania,2014,303968,108442.0883,36147.36277,0.118918316,156584.072,2.143577081
